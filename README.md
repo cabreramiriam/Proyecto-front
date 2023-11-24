@@ -15,8 +15,6 @@ Pretende simular la necesidad de una Cafetería que necesita por un lado organiz
 
 Este proyecto se trata de una tienda de maquillaje online donde el usuario podra interactuar con la pagina tiene un inicio de seccion un carrito de compra donde el usuario podra comprar o eliminar un producto tambien tiene blogs de maquillaje donde podra interactuar con la pagina para tener informacion del cuidado de la piel y de tipos de maquillaje para cada piel cuenta con un formulario donde podra suscribirse para noticias sobre la pagina una linea para ayuda si la pagina no funciona cuentacon medios de pagos y envios al pais  . REPOSITORIO GITHUB: 
 
-Tablero de Kanban hecho en trello https://trello.com/b/YlOtUZEf/cafeteria-ateneo listado de tareas
-
 flujo de trabajo
 
 seguimiento
